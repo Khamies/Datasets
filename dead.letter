@@ -1,8 +1,0 @@
-
-
-waleed : Oct 27 11:54:29 : waleed : 1 incorrect password attempt ; TTY=pts/0 ; PWD=/home/waleed ; USER=root ; COMMAND=unmae -a
-
-
-
-waleed : Nov 16 11:13:00 : waleed : 1 incorrect password attempt ; TTY=pts/1 ; PWD=/home/waleed ; USER=root ; COMMAND=ntffix -d -b /dev/sdb1
-
